@@ -1,4 +1,7 @@
-# AdvancedWidget3
+# Advanced Widget 3
+
+<h3>1. Judul Aplikasi : Advanced Widget 3 </h3>
+<h3>2. Screenshoot : </h3>
 
 Screen Shoot 1
 ![advancedwidget3 1](https://cloud.githubusercontent.com/assets/22133450/18707165/0a3e2eca-801f-11e6-8c75-ff7d780a4414.jpg)
@@ -8,6 +11,8 @@ Screen Shoot 3
 ![advancedwidget3 3](https://cloud.githubusercontent.com/assets/22133450/18707167/0a6c4418-801f-11e6-818f-5f96329cc8ff.jpg)
 Screen Shoot 4
 ![advancedwidget3 4](https://cloud.githubusercontent.com/assets/22133450/18707168/0a742a84-801f-11e6-8b7b-ffa729c59747.jpg)
+
+<h3>3. Identitas : </h3>
 
 - Nama : Baron Jahzyradja
 - Kelas : XII RPL 1
